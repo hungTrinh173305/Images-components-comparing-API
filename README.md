@@ -1,6 +1,6 @@
 ## Project Overview
 - An API that compares images' components using background substraction.
-- Run by ```python main.py```, then coppy the local url (eg. ```http://127.0.0.1:5000```) into your browser.
+- Run by ```python main.py```, then copy the local url (eg. ```http://127.0.0.1:5000```) into your browser.
 - Input two images, output an image with bounded rectangle on differences bewtween the two images.
 - Recommend to use images from ```static/toCompareImages``` for the API. 
 
